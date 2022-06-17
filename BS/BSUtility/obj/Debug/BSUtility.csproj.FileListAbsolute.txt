@@ -1,0 +1,11 @@
+D:\works\2010\BS\BSUtility\bin\Debug\BSUtility.dll
+D:\works\2010\BS\BSUtility\bin\Debug\BSUtility.pdb
+D:\works\2010\BS\BSUtility\obj\Debug\BSUtility.dll
+D:\works\2010\BS\BSUtility\obj\Debug\BSUtility.pdb
+D:\works\2010\BS\BSUtility\obj\Debug\BSUtility.csprojResolveAssemblyReference.cache
+C:\Users\w1767\Desktop\BS\BSUtility\bin\Debug\BSUtility.dll
+C:\Users\w1767\Desktop\BS\BSUtility\bin\Debug\BSUtility.pdb
+C:\Users\w1767\Desktop\BS\BSUtility\obj\Debug\BSUtility.csproj.AssemblyReference.cache
+C:\Users\w1767\Desktop\BS\BSUtility\obj\Debug\BSUtility.csproj.CoreCompileInputs.cache
+C:\Users\w1767\Desktop\BS\BSUtility\obj\Debug\BSUtility.dll
+C:\Users\w1767\Desktop\BS\BSUtility\obj\Debug\BSUtility.pdb

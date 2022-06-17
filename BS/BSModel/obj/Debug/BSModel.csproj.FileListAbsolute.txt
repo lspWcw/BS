@@ -1,0 +1,11 @@
+D:\works\2010\BS\BSModel\bin\Debug\BSModel.dll
+D:\works\2010\BS\BSModel\bin\Debug\BSModel.pdb
+D:\works\2010\BS\BSModel\obj\Debug\BSModel.dll
+D:\works\2010\BS\BSModel\obj\Debug\BSModel.pdb
+D:\works\2010\BS\BSModel\obj\Debug\BSModel.csprojResolveAssemblyReference.cache
+C:\Users\w1767\Desktop\BS\BSModel\bin\Debug\BSModel.dll
+C:\Users\w1767\Desktop\BS\BSModel\bin\Debug\BSModel.pdb
+C:\Users\w1767\Desktop\BS\BSModel\obj\Debug\BSModel.csproj.AssemblyReference.cache
+C:\Users\w1767\Desktop\BS\BSModel\obj\Debug\BSModel.csproj.CoreCompileInputs.cache
+C:\Users\w1767\Desktop\BS\BSModel\obj\Debug\BSModel.dll
+C:\Users\w1767\Desktop\BS\BSModel\obj\Debug\BSModel.pdb
